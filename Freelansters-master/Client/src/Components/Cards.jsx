@@ -98,4 +98,5 @@ const Cards = (curElem) => {
   );
 };
 
+
 export default Cards;
